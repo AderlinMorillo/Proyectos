@@ -1,0 +1,56 @@
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\bin\Debug\Factura.exe.config
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\bin\Debug\Factura.exe
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\bin\Debug\Factura.pdb
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\obj\Debug\Factura.csprojAssemblyReference.cache
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\obj\Debug\Factura.Form1.resources
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\obj\Debug\Factura.Properties.Resources.resources
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\obj\Debug\Factura.csproj.GenerateResource.cache
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\obj\Debug\Factura.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\obj\Debug\Factura.exe
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\obj\Debug\Factura.pdb
+C:\Users\unica\OneDrive\Documentos\JOHANSEL\EJEMPLO\Factura\bin\Debug\Factura.exe.config
+C:\Users\unica\OneDrive\Documentos\JOHANSEL\EJEMPLO\Factura\bin\Debug\Factura.exe
+C:\Users\unica\OneDrive\Documentos\JOHANSEL\EJEMPLO\Factura\bin\Debug\Factura.pdb
+C:\Users\unica\OneDrive\Documentos\JOHANSEL\EJEMPLO\Factura\obj\Debug\Factura.csproj.AssemblyReference.cache
+C:\Users\unica\OneDrive\Documentos\JOHANSEL\EJEMPLO\Factura\obj\Debug\Factura.csproj.SuggestedBindingRedirects.cache
+C:\Users\unica\OneDrive\Documentos\JOHANSEL\EJEMPLO\Factura\obj\Debug\Factura.Form1.resources
+C:\Users\unica\OneDrive\Documentos\JOHANSEL\EJEMPLO\Factura\obj\Debug\Factura.Properties.Resources.resources
+C:\Users\unica\OneDrive\Documentos\JOHANSEL\EJEMPLO\Factura\obj\Debug\Factura.csproj.GenerateResource.cache
+C:\Users\unica\OneDrive\Documentos\JOHANSEL\EJEMPLO\Factura\obj\Debug\Factura.csproj.CoreCompileInputs.cache
+C:\Users\unica\OneDrive\Documentos\JOHANSEL\EJEMPLO\Factura\obj\Debug\Factura.exe
+C:\Users\unica\OneDrive\Documentos\JOHANSEL\EJEMPLO\Factura\obj\Debug\Factura.pdb
+C:\Users\18297\Downloads\FACTURAPARTARMLISTA\EJEMPLO\Factura\bin\Debug\Factura.exe.config
+C:\Users\18297\Downloads\FACTURAPARTARMLISTA\EJEMPLO\Factura\bin\Debug\Factura.exe
+C:\Users\18297\Downloads\FACTURAPARTARMLISTA\EJEMPLO\Factura\bin\Debug\Factura.pdb
+C:\Users\18297\Downloads\FACTURAPARTARMLISTA\EJEMPLO\Factura\obj\Debug\Factura.csprojAssemblyReference.cache
+C:\Users\18297\Downloads\FACTURAPARTARMLISTA\EJEMPLO\Factura\obj\Debug\Factura.Form1.resources
+C:\Users\18297\Downloads\FACTURAPARTARMLISTA\EJEMPLO\Factura\obj\Debug\Factura.Properties.Resources.resources
+C:\Users\18297\Downloads\FACTURAPARTARMLISTA\EJEMPLO\Factura\obj\Debug\Factura.csproj.GenerateResource.cache
+C:\Users\18297\Downloads\FACTURAPARTARMLISTA\EJEMPLO\Factura\obj\Debug\Factura.csproj.CoreCompileInputs.cache
+C:\Users\18297\Downloads\FACTURAPARTARMLISTA\EJEMPLO\Factura\obj\Debug\Factura.exe
+C:\Users\18297\Downloads\FACTURAPARTARMLISTA\EJEMPLO\Factura\obj\Debug\Factura.pdb
+C:\Users\T470 7ma\Downloads\FACTURAC#\EJEMPLO\Factura\bin\Debug\Factura.exe.config
+C:\Users\T470 7ma\Downloads\FACTURAC#\EJEMPLO\Factura\bin\Debug\Factura.exe
+C:\Users\T470 7ma\Downloads\FACTURAC#\EJEMPLO\Factura\bin\Debug\Factura.pdb
+C:\Users\T470 7ma\Downloads\FACTURAC#\EJEMPLO\Factura\obj\Debug\Factura.csproj.AssemblyReference.cache
+C:\Users\T470 7ma\Downloads\FACTURAC#\EJEMPLO\Factura\obj\Debug\Factura.csproj.SuggestedBindingRedirects.cache
+C:\Users\T470 7ma\Downloads\FACTURAC#\EJEMPLO\Factura\obj\Debug\Factura.Form1.resources
+C:\Users\T470 7ma\Downloads\FACTURAC#\EJEMPLO\Factura\obj\Debug\Factura.Properties.Resources.resources
+C:\Users\T470 7ma\Downloads\FACTURAC#\EJEMPLO\Factura\obj\Debug\Factura.csproj.GenerateResource.cache
+C:\Users\T470 7ma\Downloads\FACTURAC#\EJEMPLO\Factura\obj\Debug\Factura.csproj.CoreCompileInputs.cache
+C:\Users\T470 7ma\Downloads\FACTURAC#\EJEMPLO\Factura\obj\Debug\Factura.exe
+C:\Users\T470 7ma\Downloads\FACTURAC#\EJEMPLO\Factura\obj\Debug\Factura.pdb
+C:\Users\T470 7ma\Desktop\UASD\Lenguaje Programación 1\Teoría\Proyecto Final\FACTURAC#\EJEMPLO\Factura\bin\Debug\Factura.exe.config
+C:\Users\T470 7ma\Desktop\UASD\Lenguaje Programación 1\Teoría\Proyecto Final\FACTURAC#\EJEMPLO\Factura\bin\Debug\Factura.exe
+C:\Users\T470 7ma\Desktop\UASD\Lenguaje Programación 1\Teoría\Proyecto Final\FACTURAC#\EJEMPLO\Factura\bin\Debug\Factura.pdb
+C:\Users\T470 7ma\Desktop\UASD\Lenguaje Programación 1\Teoría\Proyecto Final\FACTURAC#\EJEMPLO\Factura\obj\Debug\Factura.csproj.AssemblyReference.cache
+C:\Users\T470 7ma\Desktop\UASD\Lenguaje Programación 1\Teoría\Proyecto Final\FACTURAC#\EJEMPLO\Factura\obj\Debug\Factura.csproj.SuggestedBindingRedirects.cache
+C:\Users\T470 7ma\Desktop\UASD\Lenguaje Programación 1\Teoría\Proyecto Final\FACTURAC#\EJEMPLO\Factura\obj\Debug\Factura.Form1.resources
+C:\Users\T470 7ma\Desktop\UASD\Lenguaje Programación 1\Teoría\Proyecto Final\FACTURAC#\EJEMPLO\Factura\obj\Debug\Factura.Properties.Resources.resources
+C:\Users\T470 7ma\Desktop\UASD\Lenguaje Programación 1\Teoría\Proyecto Final\FACTURAC#\EJEMPLO\Factura\obj\Debug\Factura.csproj.GenerateResource.cache
+C:\Users\T470 7ma\Desktop\UASD\Lenguaje Programación 1\Teoría\Proyecto Final\FACTURAC#\EJEMPLO\Factura\obj\Debug\Factura.csproj.CoreCompileInputs.cache
+C:\Users\T470 7ma\Desktop\UASD\Lenguaje Programación 1\Teoría\Proyecto Final\FACTURAC#\EJEMPLO\Factura\obj\Debug\Factura.exe
+C:\Users\T470 7ma\Desktop\UASD\Lenguaje Programación 1\Teoría\Proyecto Final\FACTURAC#\EJEMPLO\Factura\obj\Debug\Factura.pdb
+C:\Users\T470 7ma\Desktop\UASD\Lenguaje Programación 1\Teoría\Proyecto Final\FACTURAC#\EJEMPLO\Factura\obj\Debug\Factura.Login.resources
+C:\Users\T470 7ma\Desktop\UASD\Lenguaje Programación 1\Teoría\Proyecto Final\FACTURAC#\EJEMPLO\Factura\obj\Debug\Factura.Menu.resources
+C:\Users\T470 7ma\Desktop\UASD\Lenguaje Programación 1\Teoría\Proyecto Final\FACTURAC#\EJEMPLO\Factura\obj\Debug\Factura.IngresarEmpleado.resources
